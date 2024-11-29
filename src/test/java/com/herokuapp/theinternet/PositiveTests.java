@@ -20,6 +20,7 @@ public class PositiveTests {
 // 		Create driver
 		WebDriver driver = new ChromeDriver();
 		sleep(1);
+		// Just checking
 
 // 		open test page
 		String url = "https://the-internet.herokuapp.com/login";
