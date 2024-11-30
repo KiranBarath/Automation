@@ -21,6 +21,7 @@ public class PositiveTests {
 		WebDriver driver = new ChromeDriver();
 		sleep(1);
 		// Just checking 2nd time
+		// Undo changes
 
 // 		open test page
 		String url = "https://the-internet.herokuapp.com/login";
